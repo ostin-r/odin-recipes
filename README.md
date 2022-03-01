@@ -1,2 +1,3 @@
 # odin-recipes
-Odin project foundations
+Odin Project - Web Development Foundations Project
+
